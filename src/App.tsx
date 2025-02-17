@@ -429,7 +429,7 @@ function App() {
           isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'
         }`}>
           <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-primary via-primary/80 to-primary/60">
-            Your 6-Month Developer Journey
+            Start Your Journey Even You are 3rd Year
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto">
             Follow this dynamic, interactive roadmap as you progress through your software development learning journey.
